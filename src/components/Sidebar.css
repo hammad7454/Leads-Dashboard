@@ -1,0 +1,26 @@
+.sidebar {
+  height: 100vh;
+  background: linear-gradient(to bottom, white, white); 
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  border-right: 2px solid #e8e7e379;
+  /* box-shadow: 2px 0 8px rgba(0, 0, 0, 0.1); */
+}
+
+.sidebar-logo {
+  padding: 25px;
+  font-weight: bold;
+  font-size: 40px;
+  font-family: sans-serif;
+  color: #000;
+}
+
+.sidebar-admin {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  display: flex;
+  align-items: center;
+}
