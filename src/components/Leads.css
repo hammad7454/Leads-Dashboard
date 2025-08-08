@@ -17,7 +17,7 @@ body, html {
   background: #fff;
   border-radius: 18px;
   box-shadow: 0 2px 12px rgba(0,0,0,0.04);
-  padding: 32px 24px 0px 24px;
+  padding: 0px 24px 0px 24px;
   /* padding: 50px; */
   margin: 32px 24px;
   min-height: calc(100vh - 64px); /* Adjust if you have a header */
